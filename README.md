@@ -1,4 +1,7 @@
-# Creation_XHS
+# 🎈 💬 Creation_XHS
+使用Streamlit来构建小红书图文创作APP。
+
+# 👿 APP总览 
 构建小红书图文创作应用的目的：
 - 提高效率：通过大模型的语言生成能力，帮助用户快速生成高质量的图文内容，节省用户的时间和精力，同时提高内容创作的效率。
 - 个性化推荐：利用大模型对用户喜好和行为的分析，可以根据用户的偏好生成个性化推荐的内容，提升用户体验，增加用户粘性。
@@ -11,8 +14,17 @@
 - 图片生成模块：根据个人赛道定位模块最终生成的小红书笔记，使用智谱Ai图片接口来生成相应的图片。（后续可以考虑使用stableDiffusion/mj来实现）
 ![image](https://github.com/Star-cre/Creation_XHS/assets/95208730/8d6d4316-b70f-44a6-aea7-0521f7061451)
 
+# 🤖 Quick Start
+- 依赖包安装
+```c
+pip install -r requirements.txt
+```
+- Link Start
+```c
+python start.py
+```
 
-项目成员：
+# 🧠 项目成员：
 - [Star-cre](https://github.com/Star-cre)
 - [Aitejiu](https://github.com/Aitejiu)
 - [2404589803](https://github.com/2404589803)
