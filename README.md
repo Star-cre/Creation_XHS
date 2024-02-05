@@ -14,7 +14,7 @@
 - 图片生成模块：根据个人赛道定位模块最终生成的小红书笔记，使用智谱Ai图片接口来生成相应的图片。（后续可以考虑使用stableDiffusion/mj来实现）
 ![image](https://github.com/Star-cre/Creation_XHS/assets/95208730/8d6d4316-b70f-44a6-aea7-0521f7061451)
 
-# 🤖 Quick Start
+## 🤖 Quick Start
 - 依赖包安装
 ```c
 pip install -r requirements.txt
@@ -24,7 +24,7 @@ pip install -r requirements.txt
 python start.py
 ```
 
-# 🧠 项目成员：
+## 🧠 项目成员：
 - [Star-cre](https://github.com/Star-cre)
 - [Aitejiu](https://github.com/Aitejiu)
 - [2404589803](https://github.com/2404589803)
